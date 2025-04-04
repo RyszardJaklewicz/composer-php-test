@@ -1,0 +1,12 @@
+{
+    "name": "rjaklewicz/test-waluty-001",
+    "autoload": {
+        "psr-4": {
+            "Rjaklewicz\\TestWaluty001\\": "src/"
+        }
+    },
+    "require": {
+        "maciej-sz/nbp-php": "^2.1",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
